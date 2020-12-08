@@ -1,4 +1,5 @@
-glove.6B
+glove
 sample_data
 .DS_Store
 .ipynb_checkpoints/
+saved_model
