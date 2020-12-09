@@ -3,3 +3,5 @@ sample_data
 .DS_Store
 .ipynb_checkpoints/
 saved_model
+sumdata1
+__pycache__

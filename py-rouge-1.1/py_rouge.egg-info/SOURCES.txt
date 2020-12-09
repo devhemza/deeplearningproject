@@ -1,0 +1,14 @@
+README.md
+setup.py
+py_rouge.egg-info/PKG-INFO
+py_rouge.egg-info/SOURCES.txt
+py_rouge.egg-info/dependency_links.txt
+py_rouge.egg-info/not-zip-safe
+py_rouge.egg-info/top_level.txt
+rouge/__init__.py
+rouge/example.py
+rouge/rouge.py
+rouge/rouge_augmented.py
+rouge/synonyms.py
+rouge/wordnet_key_value.txt
+rouge/wordnet_key_value_special_cases.txt
