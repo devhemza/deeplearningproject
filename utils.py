@@ -8,10 +8,10 @@ from gensim.test.utils import get_tmpfile
 from gensim.scripts.glove2word2vec import glove2word2vec
 
 
-train_article_path = "reduceddata/sumdata/train/train.article.txt"
-train_title_path = "reduceddata/sumdata/train/train.title.txt"
-valid_article_path = "reduceddata/sumdata/train/valid.article.filter.txt"
-valid_title_path = "reduceddata/sumdata/train/valid.title.filter.txt"
+train_article_path = "sumdata/train/train.article.txt"
+train_title_path = "sumdata/train/train.title.txt"
+valid_article_path = "sumdata/train/valid.article.filter.txt"
+valid_title_path = "sumdata/train/valid.title.filter.txt"
 
 
 def clean_str(sentence):
