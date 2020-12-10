@@ -2,11 +2,11 @@
 Encoder-decoder model with attention mechanism
 ### Word embedding
 
-We used the Glove pre-trained vectors to initialize the word embeddings.
+We used the [Glove](https://nlp.stanford.edu/projects/glove/) pre-trained vectors to initialize the word embeddings.
 
 ### Encoder
 Bidirectional GRU-RNN.
-###Decoder
+### Decoder
 Unidirectional GRU-RNN, with beamsearch.
 
 ### Attention Mechanism
